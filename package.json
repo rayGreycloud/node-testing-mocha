@@ -1,0 +1,14 @@
+{
+  "name": "node-tests",
+  "version": "1.0.0",
+  "description": "Testing w/Andrew",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "author": "rayGreycloud",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.0.0"
+  }
+}
